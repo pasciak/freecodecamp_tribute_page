@@ -1,0 +1,52 @@
+.white-color{
+  color: white;
+}
+
+.caption-size{
+  font-size: 140%;
+  font-family: Monostyle;
+}
+
+.black-back { 
+  background-color: black;
+}
+
+.box-white{
+  border-style: solid;
+  border-color: white;
+  border-width: 20px;
+  text-align: center;
+}
+
+.bact-photo{
+    border: 1px solid #000;
+    border-color: white;
+    border-width: 3px;
+    padding: 15px;
+    margin-left: 140px;
+    margin-right: 140px;
+}
+
+.text-frame-0 {
+    border: 1px solid #000;
+    border-color: white;
+    border-width: 3px;
+    padding: 15px;  
+    margin-top: 2px;
+    margin-bottom: 2px;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+.text-frame-1{
+    
+  border: 1px solid #000;
+    border-color: white;
+    border-width: 3px;
+    padding: 35px;
+    margin-top: 2px;
+    margin-bottom: -3px;
+    margin-left: 2px;
+    margin-right: 2px;
+  
+}
