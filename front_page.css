@@ -1,52 +1,38 @@
-.white-color{
-  color: white;
+.gray-back{
+    background-color: silver;
+    border: solid;
+    border-color: aliceblue;
+    border-width: 10px
 }
 
-.caption-size{
-  font-size: 140%;
-  font-family: Monostyle;
-}
-
-.black-back { 
-  background-color: black;
-}
-
-.box-white{
-  border-style: solid;
-  border-color: white;
-  border-width: 20px;
-  text-align: center;
-}
-
-.bact-photo{
-    border: 1px solid #000;
-    border-color: white;
-    border-width: 3px;
-    padding: 15px;
-    margin-left: 140px;
-    margin-right: 140px;
-}
-
-.text-frame-0 {
-    border: 1px solid #000;
-    border-color: white;
-    border-width: 3px;
-    padding: 15px;  
-    margin-top: 2px;
-    margin-bottom: 2px;
-    margin-left: 2px;
-    margin-right: 2px;
-}
-
-.text-frame-1{
+.h1-style { 
+    color: darkred;
+    font-family: fantasy;
+    font-size-adjust: auto;
+    text-align: center;
+    width: 100%;
+    font-size: 3vw;
     
-  border: 1px solid #000;
-    border-color: white;
-    border-width: 3px;
-    padding: 35px;
-    margin-top: 2px;
-    margin-bottom: -3px;
-    margin-left: 2px;
-    margin-right: 2px;
-  
+    margin-bottom: auto 0;
+    height: 100%;
+    margin-top: 20px;
+    
+}
+
+.bact-photo-style {
+    
+    margin-left: auto;
+    text-align: center;
+}
+
+.bact-img{
+    
+    margin: auto auto;	
+	border-radius: 15%;
+	box-shadow: 0 3px 6px rgba(0,0,0,0.9);
+}
+
+.bact-img-caption{
+    
+    
 }
